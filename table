@@ -1,0 +1,40 @@
+<html>
+<head>
+<body>
+           <table border="1px solid black" cellspacing="2" cellpadding="4">
+            <tr>
+                   <th rowspan="2">Year</th>
+                   <th colspan="4">Course Name</th>
+	                 <th> Total </th>
+           </tr>
+                        <tr>
+		                       	<th>Mca</th>
+			                      <th>Mtech</th>
+			                     <th>Mba(MS)</th>
+			                     <th>B.com.</th>
+                           <th> Student</th>
+	                 	</tr>
+        <tr>  	
+	              <td>2008</td>
+	              <td>500</td>
+	              <td>150</td>
+	              <td>600</td>
+              	<td>450</td>
+              	<td>1700</td>
+       </tr>
+                  <tr>
+	                    	<td >2009</td>	
+	                    	<td>520</td>	
+	                     	<td>140</td>	
+	                     	<td>550</td>	
+		                    <td>400</td>	
+		                   <td>1610</td>	
+                </tr>	
+		<tr>
+			<th colspan="5">Grand Total</th>
+			<td>3310</td>
+  </tr>
+</table>
+</body>
+</html>   
+	                         			
